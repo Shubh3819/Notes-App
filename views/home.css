@@ -1,0 +1,56 @@
+:root {
+  margin: 0;
+  background-color: #121212;
+}
+
+.main {
+  margin: 20px;
+  padding: 10px;
+}
+
+
+input {
+  background-color: #1e1e1e;
+  color: aliceblue;
+  border: none;
+  padding: 10px;
+  margin-bottom: 10px;
+  width: 100%;
+  border-radius: 4px;
+}
+
+
+input.title {
+  height: 30px;
+}
+
+
+input.body {
+  height: 50px;
+}
+
+.Card {
+  color:aliceblue;
+  max-width: 300px;
+  background-color: #1e1e1e;
+  padding: 15px;
+  border-radius: 8px;
+  margin-top: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+
+  .lastline{
+    display: flex;
+    align-items: left;
+    justify-content: space-between;/*can also use gap: */
+  }
+}
+
+.Card h1 {
+  color:aquamarine;
+  font-size: 24px;
+}
+
+.Card a {
+  color: blue;
+  font-weight: bold;
+}

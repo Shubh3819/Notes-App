@@ -1,0 +1,35 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# dotenv environment files
+.env
+
+# Output of build tools
+dist/
+build/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+#
+node_modules/
+
+#
+.env
