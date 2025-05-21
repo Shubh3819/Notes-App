@@ -1,4 +1,3 @@
-One of my old projects I did while learning backend.
-While revising some core concepts I went through this and added the storage feature(Where the notes or data will be stored in a local file).
+This is one of my earlier backend projects that I revisited while reviewing core concepts. I enhanced it by adding a storage feature that saves notes or data to a local file.
 
-Rest the code has a delete feature as well as a page transition feature where ones clicked on Read More.. It will take you to a seperate page with its own url id and display the paticular card component on the new page
+The project already included functionality to delete individual notes, as well as a page transition feature — clicking "Read More..." navigates to a separate page with a unique URL based on the note's ID, where the specific card is displayed.
